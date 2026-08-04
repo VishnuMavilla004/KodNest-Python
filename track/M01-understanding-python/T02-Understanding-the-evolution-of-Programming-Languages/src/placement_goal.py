@@ -1,0 +1,6 @@
+print("---------- Placement Goals ----------")
+print("Role: Software Developer")
+print("Target CTC: 8-10 LPA")
+print("target Companies: Product Based Companies")
+print("Role: Software Engineer")
+print("---------- End of Placement Goals ----------")

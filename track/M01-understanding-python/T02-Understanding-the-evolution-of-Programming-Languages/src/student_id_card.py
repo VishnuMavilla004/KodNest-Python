@@ -1,0 +1,12 @@
+# Display Student ID card  details. 
+print("-"*20)
+print("STUDENT ID CARD")
+print("-"*20)
+print("Name: Vishnu")
+print("ID: 123456789")
+print("Batch: Python Development")
+print("Batch Code: PDC1001")
+print("Address: 123 Main St, Anytown, USA")
+print("Phone: 123-456-7890")
+print("Email: VishnuM@gmail.comgit")
+print("-"*20)
