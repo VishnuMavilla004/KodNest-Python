@@ -14,6 +14,11 @@ slug_sentence =  Slug_Sentence.replace("-"," ")
 Upper_Case = slug_sentence.upper()
 Search_Word = Upper_Case.find("PYTHON")
 
+if Search_Word != Upper_Case.find("PYTHON"):
+   Search_Word = -1
+else:
+    Search_Word = Upper_Case.find("PYTHON")
+
 # Display the Results
 print(f"Cleaned: {Sentence}")
 print(f"Normalized: {sentence}")
